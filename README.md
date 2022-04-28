@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @qiqiheda
-- 👀 I’m interested in ...
+- 👀 I’m interested in data analysis and looking forward to make the transition.
 - 🌱 I’m currently learning Machine Learning and master my skills in Python.
 
 
